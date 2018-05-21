@@ -1,0 +1,22 @@
+{
+  "name": "adminui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@pearson-components/app-header": "^2.1.1",
+    "@pearson-components/elements-sdk": "^1.12.0",
+    "pearson-elements": "^1.14.21",
+    "react": "^16.3.2",
+    "react-beautiful-dnd": "^7.1.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
